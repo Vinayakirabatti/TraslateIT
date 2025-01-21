@@ -1,5 +1,5 @@
-# TraslateIT Application using vercel CLi
-Nodejs Application
+# TraslateIT Application using vercel Cli
+Javascript Application
 
 
 1. using the web speech api more details 
